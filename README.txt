@@ -1,0 +1,1 @@
+This is Jesika's first foray into git and coding.
